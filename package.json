@@ -1,0 +1,23 @@
+{
+  "name": "nrk-terminal-news",
+  "version": "1.0.0",
+  "description": "A simple script to print news to the terminal",
+  "main": "index.js",
+  "dependencies": {
+    "eventsource": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastae/nrk-terminal-news.git"
+  },
+  "author": "Sebastian Ellefsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastae/nrk-terminal-news/issues"
+  },
+  "homepage": "https://github.com/sebastae/nrk-terminal-news#readme"
+}
