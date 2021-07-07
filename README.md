@@ -3,7 +3,7 @@ A simple script to connect to NRKs sse endpoint and print news to the commandlin
 
 ## Installation 
 
-This script requires the [https://github.com/EventSource/eventsource](eventsource) library. Install it by running 
+This script requires the [eventsource](https://github.com/EventSource/eventsource) library. Install it by running 
 ```bash
 npm i
 ```
